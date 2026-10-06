@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         name = "Lưu Ngọc Trân",
         id = "2415053122343",
         className = "24T3",
-        email = "2415053122343",
+        email = "2415053122343@sv.ute.udn.vn",
         phone = "0334230808",
         gpa = 3.0
     )
